@@ -1,18 +1,18 @@
-Reinforcement Learning
+#Reinforcement Learning
 
-Project: Train a self-driving agent How to Drive
+##Project: Train a self-driving agent How to Drive
 
-Install
+### Install
 
 This project requires Python 2.7 with the pygame library installed
 
-Code
+### Code
 
 Code for the self-driving agent is in the agent.py python file. The parameters
 for the learning agent optimization are found there.
 Additional supporting python code can be found in enviroment.py, planner.py, and simulator.py. Supporting images for the graphical user interface can be found in the images folder.
 
-Run
+### Run
 
 In a terminal or command window, run one of the following commands:
 
